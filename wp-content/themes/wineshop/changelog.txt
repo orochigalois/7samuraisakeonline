@@ -1,0 +1,105 @@
+Version 2.4
+    Added:
+        - Compatibility with WP 5.4
+        - Compatibility with PHP7.3
+        - Compatibility with Product Delivery Date for WooCommerce - Lite
+       	- Compatibility with ThemeREX Updater
+       	- Compatibility with Elegro Crypto Payment
+
+    Fixed:
+        - Update scripts  libraries
+        - Update plugins to their latest versions
+
+    Changed:
+        - Update demo data
+        - Remove From Theme Options Site Favicon
+
+
+Version 2.3.2
+	Fixed
+		- Call to undefined function issue
+
+Version 2.3.1
+	Admin part theme localization in Italian is added
+	
+Version 2.3
+	Theme localization in Italian is added
+
+
+Version 2.2.1
+	Fixed:
+	- Cart page ('update cart counter')
+
+Version 2.2
+    Added:
+        - Compatibility with Gutenberg and other PageBuilders
+        - WP GDPR Compliance plugin
+        - Contact form 7 plugin
+        - Alert to Demo data installation
+        - Privacy Policy page
+    Fixed:
+        - Compatibility with WP 4.9.8
+        - Update plugins to their latest versions
+        - Improve theme styles
+        - Button shortcode (button aligment and "open in new window" option)
+        - Update documentation
+    Changed:
+        - Update default contact forms to make them GDPR-compliant
+        - Move Importer to ThemeREX Utilities plugin
+        - Update demo data
+
+Version 2.1.1
+    Fixed:
+    - Team Group shortcode - display categories
+
+Version 2.1
+	Compatibility with PHP7
+    The theme is now compatible with version WooCommerce 3.0 and higher
+    Fix Courses
+
+Version 2.0
+	Fix icon-image in services 16-11-16
+	Fix plugin.woocommerce show category in shop
+	Fix Terms and Conditions
+
+Version 1.9
+	Social login improved
+
+Version 1.8
+	Google Maps updated
+		
+Version 1.7
+    - Updated
+		Visual Composer
+		The Events Calendar
+		Revolution Slider
+	
+Version 1.6
+    - Visual Composer updated to it last version
+
+Version 1.5.1 – Update
+	- Plugin Additional Tags removed
+	
+Version 1.5 – Update
+	- Uploaded fonts are compatible with the theme
+	- Event display fixed
+	- Visual Composer updated 
+
+Version 1.4 – Update
+	- Bug's in Blog Streampage fixed
+	- Visual Composer updated 
+	
+Version 1.3 – Update
+	- Comment form fixed
+	- Contacts fixed 
+	- An option to change the image in the page header added
+
+Version 1.2 – Update
+	- Search form is fixed 
+	- Bugs in theme's files fixed
+
+Version 1.1 – Update
+	- Added: Built-in demo data import
+
+Version 1.0
+	Release WineShop
